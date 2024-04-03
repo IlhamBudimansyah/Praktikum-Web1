@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Redeclaring a Variable Using var</h2>
+
+<p id="demo"></p>
+
+<script>
+var  x = 10;
+// Here x is 10
+
+{  
+var x = 2;
+// Here x is 2
+}
+
+// Here x is 2
+document.getElementById("demo").innerHTML = x;
+let x = 10;
+// Here x is 10
+
+{
+let x = 2;
+// Here x is 2
+}
+
+// Here x is 10
+
+var x = 2;
+// Now x is 2
+
+var x = 3;
+// Now x is 3
+
+
+let x = 2;   // Allowed
+
+{
+let x = 3;   // Allowed
+}
+
+{
+let x = 4;    // Allowed
+}
+
+carName = "Volvo";
+var carName;
+
+carName = "Saab";
+let carName = "Volvo";
+
+</script>
+
+</body>
+</html>
