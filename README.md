@@ -169,5 +169,33 @@ tr:nth-child(even) {
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20INPUT%20CSS%202.png)
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20INPUT%20CSS%203.png)
 
--Berikut adalah contoh output dari CSS di atas
+- Berikut adalah contoh output dari CSS di atas
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20OUTPUT%20CSS.png)
+
+## Membuat Alert Pada JavaScript
+
+- Untuk membuat membuat button sekaligus memanggil function
+```sh
+<button onclick="myFunction()">Try it</button>
+```
+
+- Untuk membuat function di button
+```sh
+function myFunction() {
+  let text;
+  let person = prompt("Please enter your name:", "Harry Potter");
+  if (person == null || person == "") {
+    text = "User cancelled the prompt.";
+  } else {
+    text = "Hello " + person + "! How are you today?";
+  }
+  document.getElementById("demo").innerHTML = text;
+}
+```
+
+- Berikut adalah contoh input dari Alert JavaScript di atas
+![alt taxt](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20INPUT%20JS.png)
+
+- Berikut adalah contoh output dari Alert JavaScript di atas
+![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20OUTPUT%20JS%201.png)
+![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20OUTPUT%20JS%202.png)
