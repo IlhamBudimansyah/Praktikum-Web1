@@ -116,6 +116,17 @@ tr:nth-child(even) {
 }
 ```
 
+- Untuk membuat keterangan pada bagian bawah
+```sh
+    <h4>Keterangan:</h4>
+    <ol>
+        <li>Warna Heading dan Table Header adalah <b>rgb(87, 87, 218)</b></li>
+        <li>Warna Baris Genap adalah <b>#59ddd5</b></li>
+        <li>Warna saat hover adalah <b>greenyellow</b></li>
+        <li>Pada saat hover, ukuran font <b>lebih besar 120%</b>, dan berubah menjadi <b>BOLD</b></li>
+    </ol>
+```
+
 - Untuk membuat isi dalam pada tabel
 ```sh
     <h1>Daftar Mahasiswa</h1>
