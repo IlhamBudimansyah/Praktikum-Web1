@@ -57,5 +57,5 @@ Tugas 2 berisi tentang
 </ol>
 ```
 
-- Berikut adalah contoh input dari kode di atas
+- Berikut adalah contoh input dari HTML List di atas
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20Input%20HTML.png)
