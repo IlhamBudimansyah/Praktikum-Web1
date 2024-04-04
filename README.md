@@ -163,3 +163,6 @@ tr:nth-child(even) {
         </tr>
     </table>
 ```
+
+- Berikut adalah contoh input dari CSS di atas
+![alt text]()
