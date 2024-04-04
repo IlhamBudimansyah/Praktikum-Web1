@@ -106,3 +106,49 @@ tr:nth-child(even) {
     color : white
 }
 ```
+
+- Untuk membuat hover pada tabel pada saat mouse di arahkan ke dalam tabel
+```sh
+.highlight:hover {
+  color: black;
+  font-size: 22px;
+  background-color: greenyellow;
+}
+```
+
+- Untuk membuat isi dalam pada tabel
+```sh
+    <h1>Daftar Mahasiswa</h1>
+    <table>
+        <tr class="judul">
+            <th>Nama</th>
+            <th>Program Studi</th>
+            <th>Kelas</th>
+        </tr>
+        <tr class="highlight">
+            <th>John Doe</th>
+            <th>Teknik Informatika</th>
+            <th>A-01</th>
+        </tr>
+        <tr class="highlight">
+            <th>Jane Smith</th>
+            <th>Sistem Informasi</th>
+            <th>B-02</th>
+        </tr>
+        <tr class="highlight">
+            <th>Alice Johnson</th>
+            <th>Teknik Komputer</th>
+            <th>A-03</th>
+        </tr>
+        <tr class="highlight">
+            <th>Bob Brown</th>
+            <th>Teknik Elektro</th>
+            <th>C-01</th>
+        </tr>
+        <tr class="highlight">
+            <th>Emily Davis</th>
+            <th>Manajemen Informatika</th>
+            <th>D-02</th>
+        </tr>
+    </table>
+```
