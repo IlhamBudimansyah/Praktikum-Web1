@@ -14,7 +14,7 @@ Tugas 2 berisi tentang
 - Berisi tentang Bagaimana cara membuat sebuah function pada JavaScript dengan mengambil nilai variabel untuk menghitung/Arithmatic
 - Berisi tentang cara mengoutputkan kembali hasil dari variabel melalui Javascript alert
 
-##Contoh Membuat List Pada HTML
+## Contoh Membuat List Pada HTML
 
 - Untuk membuat list hari Senin
 ```sh
@@ -63,7 +63,7 @@ Tugas 2 berisi tentang
 - Berikut adalah contoh output dari HTML List di atas
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20OUTPUT%20HTML.png)
 
-##Contoh Membuat Tabel Pada CSS
+## Contoh Membuat Tabel Pada CSS
 
 - Untuk membuat tabel
 ```sh
