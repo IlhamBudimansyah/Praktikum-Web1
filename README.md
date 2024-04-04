@@ -59,3 +59,6 @@ Tugas 2 berisi tentang
 
 - Berikut adalah contoh input dari HTML List di atas
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20Input%20HTML.png)
+
+- Berikut adalah contoh output dari HTML List di atas
+![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20OUTPUT%20HTML.png)
