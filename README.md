@@ -50,12 +50,12 @@ Tugas 2 berisi tentang
 </ol>
 ```
 
-- Berikut adalah contoh input dari kode di atas
-https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20OUTPUT%20HTML.png
-
 - Untuk membuat lanjutan list pada hari Selasa
 ```sh
   <li>PHP</li>
   <li>MySQL</li>
 </ol>
 ```
+
+- Berikut adalah contoh input dari kode di atas
+![alt text]https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20Input%20HTML.png
