@@ -168,3 +168,6 @@ tr:nth-child(even) {
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20INPUT%20CSS%201.png)
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20INPUT%20CSS%202.png)
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20INPUT%20CSS%203.png)
+
+-Berikut adalah contoh output dari CSS di atas
+![alt text]()
