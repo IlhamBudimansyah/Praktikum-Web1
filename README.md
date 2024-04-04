@@ -1,8 +1,11 @@
-Tugas 2 berisi tentang
+Tugas 2
+Praktikum Pemrograman Web 1
 
+Tugas 2 berisi tentang
 HTML
 CSS
 JavaScript
+
 Isi File
 Berisi tentang dasar-dasar pengkodean HTML, CSS dan JavaScript yang telah saya pelajari
 Berisi tentang cara membuat tabel dengan HTML, serta membuat style CSS baik menggunakan inline, internal, maupun external
