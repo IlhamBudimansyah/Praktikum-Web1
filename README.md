@@ -62,3 +62,47 @@ Tugas 2 berisi tentang
 
 - Berikut adalah contoh output dari HTML List di atas
 ![alt text](https://github.com/IlhamBudimansyah/Praktikum-Web1/blob/main/SS%20OUTPUT%20HTML.png)
+
+##Contoh Membuat Tabel Pada CSS
+
+- Untuk membuat tabel
+```sh
+    table {
+  font-family:'Times New Roman', Times, serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-weight: lighter;
+    }
+```
+
+- Untuk membuat tulisan "Daftar Mahasiswa" menjadi di tengah dan berwarna biru
+```sh
+    h1 {
+        text-align: center;
+        color : rgb(87, 87, 218)
+    }
+```
+
+- Untuk mewarnai garis pinggir pinggir pada tabel menjadi warna merah dan teks menjadi ke kiri
+```sh
+    td, th {
+  border: 1px solid red;
+  text-align: left;
+  padding: 8px;
+}
+```
+
+- Untuk membuat warna tabel genap menjadi warna biru
+```sh
+tr:nth-child(even) {
+  background-color: #59ddd5;
+}
+```
+
+- Untuk membuat CSS pada header tabel
+```sh
+.judul{
+    background-color: rgb(87, 87, 218);
+    color : white
+}
+```
